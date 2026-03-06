@@ -1,0 +1,1 @@
+# Fungsi-deleteFirst-DeleteLast-InsertFirst-
